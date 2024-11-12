@@ -1,0 +1,17 @@
+[33mcommit 04a35418b32d354957b61f59e12c9b3c5e2faf35[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mAula2[m[33m, [m[1;31morigin/Aula2[m[33m)[m
+Author: Lucca Almeida <luccadev@hotmail.com>
+Date:   Tue Nov 12 10:30:17 2024 -0300
+
+    Cria uma entidade no banco de dados apartir do NinjaModel [Aula3]
+
+[33mcommit 950e7540ff3af39fb8ba981ea6f0aa99b2c73560[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Lucca Almeida <luccadev@hotmail.com>
+Date:   Sat Nov 9 09:44:36 2024 -0300
+
+    Criado a controller [Aula 2]
+
+[33mcommit 5a0924bf28a224d53c046660a6300edfeab59b5b[m
+Author: Lucca Almeida <luccadev@hotmail.com>
+Date:   Fri Nov 8 09:53:52 2024 -0300
+
+    primeiro commit
